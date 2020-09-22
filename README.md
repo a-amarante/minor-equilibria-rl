@@ -68,13 +68,14 @@ Unfortunately, the code needs to be recompiled any time parameters in the ``equi
 Disclaimers
 ------------
 
-* The Ridge-Line algorithm have been tested with the ``Bissection`` and ``Newton-Raphson`` methods.
+* The Ridge-Line algorithm have been tested with the ``Bisection`` and ``Newton-Raphson`` methods.
 * I've fixed all the errors I've found.  If you find a bug, let me know so we can try to fix it.
 * Any feedback is appreciated, especially bugs, suggestions, or possible contributions.
 * Are you going to publish? Please acknowledge the use of my code in any publication referencing:
 
    ``Amarante, A., Winter, O. C., Sfair, R. (2020), Stability and Evolution of Fallen Particles Around the Surface of Asteroid (101955) Bennu. JGR Planets.``
 
+* The code also has a Zenodo DOI number that can be used for citation: [https://doi.org/10.5281/zenodo.4015746](https://doi.org/10.5281/zenodo.4015746)
 * The main source code of this repository is available on reasonable request.
 
 Recent Publications
